@@ -58,7 +58,7 @@
   }
 }
 @media (max-width: 400px) {
-  .telefone {
-    display: none;
+  .footer-contato li {
+    font-size: 1rem;
   }
 }
